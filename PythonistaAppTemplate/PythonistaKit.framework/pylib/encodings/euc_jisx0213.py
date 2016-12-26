@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # euc_jisx0213.py: Python Unicode Codec for EUC_JISX0213
 #

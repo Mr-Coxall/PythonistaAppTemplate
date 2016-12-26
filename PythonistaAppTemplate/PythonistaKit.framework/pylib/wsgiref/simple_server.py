@@ -1,3 +1,4 @@
+#\input texinfo
 
 """BaseHTTPServer that implements the Python WSGI protocol (PEP 333, rev 1.21)
 

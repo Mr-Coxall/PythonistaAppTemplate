@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Lite version of scipy.linalg.
 

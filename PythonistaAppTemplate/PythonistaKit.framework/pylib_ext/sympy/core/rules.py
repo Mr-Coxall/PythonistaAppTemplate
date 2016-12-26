@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Replacement rules.

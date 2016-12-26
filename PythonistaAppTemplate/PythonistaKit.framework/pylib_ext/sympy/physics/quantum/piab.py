@@ -1,3 +1,4 @@
+#\input texinfo
 
 """1D quantum particle in a box."""
 

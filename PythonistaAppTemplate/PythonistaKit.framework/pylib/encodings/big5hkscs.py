@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # big5hkscs.py: Python Unicode Codec for BIG5HKSCS
 #

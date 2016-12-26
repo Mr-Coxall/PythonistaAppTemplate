@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Standard container-class for easy multiple-inheritance.

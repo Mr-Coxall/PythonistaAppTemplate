@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Primitive circuit operations on quantum circuits."""
 

@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """A parser for XML, using the derived class as static DTD."""
 

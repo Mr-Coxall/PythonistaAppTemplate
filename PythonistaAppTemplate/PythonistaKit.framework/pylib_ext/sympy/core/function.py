@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 There are two types of functions:

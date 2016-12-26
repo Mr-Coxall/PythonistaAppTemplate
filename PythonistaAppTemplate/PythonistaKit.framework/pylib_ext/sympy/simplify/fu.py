@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Implementation of the trigsimp algorithm by Fu et al.

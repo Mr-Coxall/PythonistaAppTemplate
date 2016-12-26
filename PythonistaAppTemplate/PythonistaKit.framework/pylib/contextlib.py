@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Utilities for with-statement contexts.  See PEP 343."""
 

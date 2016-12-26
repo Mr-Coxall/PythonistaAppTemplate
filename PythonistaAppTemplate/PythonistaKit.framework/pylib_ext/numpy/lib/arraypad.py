@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The arraypad module contains a group of functions to pad values onto the edges

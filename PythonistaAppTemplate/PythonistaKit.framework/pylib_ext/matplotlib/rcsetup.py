@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The rcsetup module contains the default values and the validation code for

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Algorithms for solving the Risch differential equation.

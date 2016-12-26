@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python Character Mapping Codec for PalmOS 3.5.
 

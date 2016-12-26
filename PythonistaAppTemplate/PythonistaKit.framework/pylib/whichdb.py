@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Guess which db package to use to open a db file."""
 

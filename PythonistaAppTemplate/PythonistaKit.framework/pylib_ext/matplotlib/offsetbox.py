@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The OffsetBox is a simple container artist. The child artist are meant

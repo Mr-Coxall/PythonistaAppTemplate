@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Simple Harmonic Oscillator 1-Dimension"""
 

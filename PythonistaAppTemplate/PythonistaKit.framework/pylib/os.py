@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 r"""OS routines for Mac, NT, or Posix depending on what system we're on.
 
 This exports:

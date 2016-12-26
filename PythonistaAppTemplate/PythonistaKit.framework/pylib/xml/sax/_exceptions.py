@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Different kinds of SAX Exceptions"""
 import sys

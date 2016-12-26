@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The figure module provides the top-level

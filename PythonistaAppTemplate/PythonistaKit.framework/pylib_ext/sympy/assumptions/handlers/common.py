@@ -1,3 +1,4 @@
+#\input texinfo
 from sympy.logic.boolalg import conjuncts
 from sympy.assumptions import Q, ask
 

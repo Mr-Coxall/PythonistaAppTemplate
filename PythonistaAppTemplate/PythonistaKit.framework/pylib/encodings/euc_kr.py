@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # euc_kr.py: Python Unicode Codec for EUC_KR
 #

@@ -1,3 +1,4 @@
+#\input texinfo
 # sympy/galgebra/precedence.py
 
 """

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """:mod:`numpy.ma..mrecords`
 

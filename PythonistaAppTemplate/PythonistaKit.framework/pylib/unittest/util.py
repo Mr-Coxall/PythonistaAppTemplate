@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Various utility functions."""
 from collections import namedtuple, OrderedDict

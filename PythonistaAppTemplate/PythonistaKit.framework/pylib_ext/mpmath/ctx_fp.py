@@ -1,3 +1,4 @@
+#\input texinfo
 from .ctx_base import StandardBaseContext
 
 import math

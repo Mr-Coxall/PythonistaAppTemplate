@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Usage: runtests.py [-q] [-r] [-v] [-u resources] [mask]
 

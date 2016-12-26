@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Routine to "compile" a .py file to a .pyc (or .pyo) file.
 

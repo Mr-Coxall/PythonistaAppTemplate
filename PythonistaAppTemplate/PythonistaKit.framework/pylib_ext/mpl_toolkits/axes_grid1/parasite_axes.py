@@ -1,3 +1,4 @@
+#\input texinfo
 import warnings
 
 import matplotlib

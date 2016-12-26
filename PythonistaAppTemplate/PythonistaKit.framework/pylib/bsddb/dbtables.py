@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 #-----------------------------------------------------------------------
 #
 # Copyright (C) 2000, 2001 by Autonomous Zone Industries

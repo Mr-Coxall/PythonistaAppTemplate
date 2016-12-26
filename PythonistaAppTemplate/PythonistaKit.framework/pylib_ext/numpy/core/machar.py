@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Machine arithmetics - determine the parameters of the

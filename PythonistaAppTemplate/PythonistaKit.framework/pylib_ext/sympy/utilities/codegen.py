@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 module for generating C, C++, Fortran77, Fortran90 and python routines that

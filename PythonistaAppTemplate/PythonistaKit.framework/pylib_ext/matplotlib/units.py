@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The classes here provide support for using custom classes with

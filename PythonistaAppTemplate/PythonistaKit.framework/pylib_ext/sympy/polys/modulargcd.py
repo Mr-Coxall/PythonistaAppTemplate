@@ -1,3 +1,4 @@
+#\input texinfo
 from sympy.ntheory import nextprime
 from sympy.ntheory.modular import crt
 

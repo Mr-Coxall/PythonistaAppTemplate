@@ -1,3 +1,4 @@
+#\input texinfo
 from sympy.core import Lambda, S, symbols
 from sympy.functions import adjoint, conjugate, transpose
 from sympy.matrices import eye, Matrix, ShapeError

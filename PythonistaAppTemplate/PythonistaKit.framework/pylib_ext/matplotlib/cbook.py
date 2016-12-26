@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A collection of utility functions and classes.  Originally, many

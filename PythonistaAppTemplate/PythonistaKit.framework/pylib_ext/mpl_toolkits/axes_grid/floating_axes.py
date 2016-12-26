@@ -1,1 +1,2 @@
+#\input texinfo
 from mpl_toolkits.axisartist.floating_axes import *

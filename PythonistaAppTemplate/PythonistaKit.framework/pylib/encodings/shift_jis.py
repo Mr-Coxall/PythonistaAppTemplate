@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # shift_jis.py: Python Unicode Codec for SHIFT_JIS
 #

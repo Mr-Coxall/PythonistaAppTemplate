@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module implements computation of hypergeometric and related

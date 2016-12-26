@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """runpy.py - locating and running Python code using the module namespace
 

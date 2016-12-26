@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Aliases for functions which may be accelerated by Scipy.

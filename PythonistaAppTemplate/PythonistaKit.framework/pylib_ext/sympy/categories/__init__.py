@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Category Theory module.

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 provides a classes of simple units that will be used with AxesDivider

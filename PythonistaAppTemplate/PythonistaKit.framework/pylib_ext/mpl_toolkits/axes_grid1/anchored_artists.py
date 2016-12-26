@@ -1,3 +1,4 @@
+#\input texinfo
 
 from matplotlib.patches import Rectangle, Ellipse
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Enhanced distutils with Fortran compilers support and more.

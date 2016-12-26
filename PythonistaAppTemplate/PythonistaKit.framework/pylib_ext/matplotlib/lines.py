@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module contains all the 2D line class which can draw with a

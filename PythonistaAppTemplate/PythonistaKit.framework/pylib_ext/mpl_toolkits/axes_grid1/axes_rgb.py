@@ -1,3 +1,4 @@
+#\input texinfo
 import numpy as np
 from axes_divider import make_axes_locatable, Size, locatable_axes_factory
 

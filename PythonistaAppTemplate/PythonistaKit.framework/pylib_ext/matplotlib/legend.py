@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The legend module defines the Legend class, which is responsible for

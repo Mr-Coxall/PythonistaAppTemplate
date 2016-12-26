@@ -1,3 +1,4 @@
+#\input texinfo
 #=======================================================================
 
 """ A set of utilities for comparing results.

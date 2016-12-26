@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Masked arrays add-ons.

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Ground types for various mathematical domains in SymPy. """
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """User-friendly public interface to polynomial functions. """
 

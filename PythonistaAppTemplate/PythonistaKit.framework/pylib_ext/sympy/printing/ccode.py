@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 C code printer

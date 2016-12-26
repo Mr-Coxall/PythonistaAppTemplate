@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A Printer for generating executable code.

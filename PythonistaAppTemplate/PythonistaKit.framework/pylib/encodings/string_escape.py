@@ -1,3 +1,4 @@
+#\input texinfo
 # -*- coding: iso-8859-1 -*-
 """ Python 'escape' Codec
 

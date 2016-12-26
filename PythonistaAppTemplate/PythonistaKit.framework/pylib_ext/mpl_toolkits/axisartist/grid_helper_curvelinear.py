@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 An experimental support for curvilinear grid.

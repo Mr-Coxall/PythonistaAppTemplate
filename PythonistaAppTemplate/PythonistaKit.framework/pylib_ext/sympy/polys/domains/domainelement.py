@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Trait for implementing domain elements. """
 

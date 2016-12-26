@@ -1,3 +1,4 @@
+#\input texinfo
 from ..libmp.backend import xrange
 
 class SpecialFunctions(object):

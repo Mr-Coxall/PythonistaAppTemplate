@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # subprocess - Subprocesses with accessible I/O streams
 #
 # For more information about this module, see PEP 324.

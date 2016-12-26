@@ -1,3 +1,4 @@
+#\input texinfo
 from copy import copy
 
 from ..libmp.backend import xrange

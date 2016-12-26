@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Abstract base classes define the primitives that renderers and

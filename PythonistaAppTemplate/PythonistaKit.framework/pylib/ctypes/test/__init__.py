@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 import os, sys, unittest, getopt, time
 
 use_resources = []

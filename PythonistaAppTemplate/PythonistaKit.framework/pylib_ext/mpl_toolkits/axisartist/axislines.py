@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Axislines includes modified implementation of the Axes class. The

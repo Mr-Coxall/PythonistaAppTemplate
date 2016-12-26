@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module provides convenient functions to transform sympy expressions to

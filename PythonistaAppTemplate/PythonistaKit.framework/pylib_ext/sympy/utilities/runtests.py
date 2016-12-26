@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This is our testing framework.

@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import division, absolute_import, print_function
 
 # missing Numarray defined names (in from numarray import *)

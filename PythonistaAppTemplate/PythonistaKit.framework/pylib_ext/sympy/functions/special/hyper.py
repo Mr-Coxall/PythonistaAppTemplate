@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Hypergeometric and Meijer G-functions"""
 

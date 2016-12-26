@@ -1,3 +1,4 @@
+#\input texinfo
 
 """This module contains some general purpose utilities that are used across
 SymPy.

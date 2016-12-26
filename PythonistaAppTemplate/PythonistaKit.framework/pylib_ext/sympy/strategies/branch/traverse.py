@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Branching Strategies to Traverse a Tree """
 

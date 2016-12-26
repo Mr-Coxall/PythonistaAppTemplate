@@ -1,3 +1,4 @@
+#\input texinfo
 
 """High-level polynomials manipulation functions. """
 

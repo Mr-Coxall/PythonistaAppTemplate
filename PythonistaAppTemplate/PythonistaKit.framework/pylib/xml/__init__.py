@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Core XML support for Python.
 

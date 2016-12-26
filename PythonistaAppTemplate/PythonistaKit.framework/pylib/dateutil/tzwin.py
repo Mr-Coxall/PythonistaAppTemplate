@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # This code was originally contributed by Jeffrey Harris.
 import datetime
 import struct

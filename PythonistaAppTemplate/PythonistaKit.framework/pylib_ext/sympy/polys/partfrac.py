@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Algorithms for partial fraction decomposition of rational functions. """
 

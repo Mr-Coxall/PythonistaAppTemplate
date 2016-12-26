@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Limited tests of the visualization module. Right now it just makes

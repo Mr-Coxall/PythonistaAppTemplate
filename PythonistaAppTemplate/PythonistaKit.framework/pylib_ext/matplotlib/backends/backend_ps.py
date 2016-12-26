@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A PostScript backend, which can produce both PostScript .ps and .eps

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The axes_divider module provide helper classes to adjust the positions of

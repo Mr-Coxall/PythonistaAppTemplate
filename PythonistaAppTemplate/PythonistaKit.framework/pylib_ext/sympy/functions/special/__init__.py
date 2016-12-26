@@ -1,3 +1,4 @@
+#\input texinfo
 from . import gamma_functions
 from . import error_functions
 from . import zeta_functions

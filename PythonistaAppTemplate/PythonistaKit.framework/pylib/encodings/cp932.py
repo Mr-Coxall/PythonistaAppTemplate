@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # cp932.py: Python Unicode Codec for CP932
 #

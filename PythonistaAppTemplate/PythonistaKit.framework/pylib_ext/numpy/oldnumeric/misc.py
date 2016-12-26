@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Functions that already have the correct syntax or miscellaneous functions
 

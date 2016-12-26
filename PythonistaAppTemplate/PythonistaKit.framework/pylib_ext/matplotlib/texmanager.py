@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module supports embedded TeX expressions in matplotlib via dvipng

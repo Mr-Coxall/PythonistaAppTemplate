@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python Character Mapping Codec generated from 'VENDORS/MICSFT/PC/CP852.TXT' with gencodec.py.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 axis_artist.py module provides axis-related artists. They are

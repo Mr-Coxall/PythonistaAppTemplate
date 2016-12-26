@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Array printing function
 

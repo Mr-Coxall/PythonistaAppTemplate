@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Registration facilities for DOM. This module should not be used
 directly. Instead, the functions getDOMImplementation and

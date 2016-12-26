@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """HMAC (Keyed-Hashing for Message Authentication) Python module.
 

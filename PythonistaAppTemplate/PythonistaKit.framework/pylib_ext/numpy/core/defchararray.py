@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module contains a set of functions for vectorized string

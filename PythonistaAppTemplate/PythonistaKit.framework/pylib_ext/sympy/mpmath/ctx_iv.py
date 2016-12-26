@@ -1,3 +1,4 @@
+#\input texinfo
 import operator
 
 from . import libmp

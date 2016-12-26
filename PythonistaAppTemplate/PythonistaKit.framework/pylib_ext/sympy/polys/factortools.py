@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Polynomial factorization routines in characteristic zero. """
 

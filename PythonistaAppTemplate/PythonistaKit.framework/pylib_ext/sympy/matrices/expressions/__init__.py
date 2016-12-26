@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ A module which handles Matrix Expressions """
 

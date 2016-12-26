@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Grover's algorithm and helper functions.
 

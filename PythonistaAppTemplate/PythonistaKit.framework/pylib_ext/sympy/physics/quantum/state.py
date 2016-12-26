@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Dirac notation for states."""
 

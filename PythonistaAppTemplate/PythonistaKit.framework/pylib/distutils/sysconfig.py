@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Provide access to Python's configuration information.  The specific
 configuration variables available depend heavily on the platform and

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Handlers for keys related to number theory: prime, even, odd, etc.

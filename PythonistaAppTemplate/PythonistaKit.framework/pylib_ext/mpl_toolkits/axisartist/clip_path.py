@@ -1,3 +1,4 @@
+#\input texinfo
 import numpy as np
 from math import degrees
 import math

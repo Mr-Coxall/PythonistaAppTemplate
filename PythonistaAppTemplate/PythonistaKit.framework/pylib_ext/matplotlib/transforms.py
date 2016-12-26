@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 matplotlib includes a framework for arbitrary geometric

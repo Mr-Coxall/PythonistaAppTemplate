@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 These are  classes to support contour plotting and

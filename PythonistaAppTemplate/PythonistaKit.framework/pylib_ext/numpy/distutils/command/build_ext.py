@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Modified version of build_ext that handles fortran source files.
 

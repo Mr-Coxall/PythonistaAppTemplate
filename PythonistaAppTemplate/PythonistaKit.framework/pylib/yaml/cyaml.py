@@ -1,3 +1,4 @@
+#\input texinfo
 
 __all__ = ['CBaseLoader', 'CSafeLoader', 'CLoader',
         'CBaseDumper', 'CSafeDumper', 'CDumper']

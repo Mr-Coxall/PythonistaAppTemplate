@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 An experimental module for reading dvi files output by TeX. Several

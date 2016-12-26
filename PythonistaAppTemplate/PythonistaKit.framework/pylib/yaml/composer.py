@@ -1,3 +1,4 @@
+#\input texinfo
 
 __all__ = ['Composer', 'ComposerError']
 

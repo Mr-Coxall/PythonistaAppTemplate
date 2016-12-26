@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Don't add these to the __all__ variable though
 

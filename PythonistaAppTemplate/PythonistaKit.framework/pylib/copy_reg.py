@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Helper to provide extensibility for pickle/cPickle.
 

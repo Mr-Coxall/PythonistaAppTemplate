@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python 'hex_codec' Codec - 2-digit hex content transfer encoding
 

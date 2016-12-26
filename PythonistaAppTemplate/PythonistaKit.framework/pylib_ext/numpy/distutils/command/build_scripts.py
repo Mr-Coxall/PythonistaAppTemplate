@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Modified version of build_scripts that handles building scripts from functions.
 

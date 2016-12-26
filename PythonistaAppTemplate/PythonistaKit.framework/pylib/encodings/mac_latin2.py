@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python Character Mapping Codec generated from 'LATIN2.TXT' with gencodec.py.
 

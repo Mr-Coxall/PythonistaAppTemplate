@@ -1,3 +1,4 @@
+#\input texinfo
 from mpmath import *
 from random import seed, randint, random
 import math

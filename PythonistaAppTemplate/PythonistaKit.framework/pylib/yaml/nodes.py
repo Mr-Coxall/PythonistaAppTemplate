@@ -1,3 +1,4 @@
+#\input texinfo
 
 class Node(object):
     def __init__(self, tag, value, start_mark, end_mark):

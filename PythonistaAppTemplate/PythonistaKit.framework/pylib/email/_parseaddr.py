@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 # Copyright (C) 2002-2007 Python Software Foundation
 # Contact: email-sig@python.org
 

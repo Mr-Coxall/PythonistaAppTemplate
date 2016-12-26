@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Implementation of :class:`SimpleDomain` class. """
 

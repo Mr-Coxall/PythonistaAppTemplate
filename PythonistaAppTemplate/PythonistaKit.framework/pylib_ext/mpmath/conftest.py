@@ -1,3 +1,4 @@
+#\input texinfo
 # The py library is part of the "py.test" testing suite (python-codespeak-lib
 # on Debian), see http://codespeak.net/py/
 

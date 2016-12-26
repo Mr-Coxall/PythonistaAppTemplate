@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import print_function
 from matplotlib.collections import PolyCollection, TriMesh
 from matplotlib.colors import Normalize

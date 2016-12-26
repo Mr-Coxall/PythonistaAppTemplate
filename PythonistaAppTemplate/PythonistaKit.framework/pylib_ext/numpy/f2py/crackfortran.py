@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 crackfortran --- read fortran (77,90) code and extract declaration information.

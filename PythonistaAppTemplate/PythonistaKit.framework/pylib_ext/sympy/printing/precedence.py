@@ -1,3 +1,4 @@
+#\input texinfo
 
 """A module providing information about the necessity of brackets"""
 

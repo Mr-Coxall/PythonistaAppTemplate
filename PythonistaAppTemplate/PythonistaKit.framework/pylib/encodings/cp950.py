@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # cp950.py: Python Unicode Codec for CP950
 #

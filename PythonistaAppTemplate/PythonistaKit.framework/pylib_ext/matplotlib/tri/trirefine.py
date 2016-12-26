@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Mesh refinement for triangular grids.

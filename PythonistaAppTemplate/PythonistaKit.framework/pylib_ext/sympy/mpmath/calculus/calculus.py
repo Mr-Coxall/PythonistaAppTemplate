@@ -1,3 +1,4 @@
+#\input texinfo
 class CalculusMethods(object):
     pass
 

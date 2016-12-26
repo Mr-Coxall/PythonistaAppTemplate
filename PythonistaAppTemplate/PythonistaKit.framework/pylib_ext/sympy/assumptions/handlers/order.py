@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 AskHandlers related to order relations: positive, negative, etc.

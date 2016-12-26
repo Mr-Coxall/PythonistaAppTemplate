@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Sparse rational function fields. """
 

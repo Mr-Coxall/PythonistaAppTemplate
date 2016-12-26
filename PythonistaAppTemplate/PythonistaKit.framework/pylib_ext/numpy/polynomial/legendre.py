@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Legendre Series (:mod: `numpy.polynomial.legendre`)

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Implementaton of :class:`CharacteristicZero` class. """
 

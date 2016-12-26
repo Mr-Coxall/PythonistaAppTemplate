@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Module containing non-deprecated functions borrowed from Numeric.
 

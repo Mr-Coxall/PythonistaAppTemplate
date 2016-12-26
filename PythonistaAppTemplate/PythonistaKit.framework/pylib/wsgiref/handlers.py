@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Base classes for server/gateway implementations"""
 

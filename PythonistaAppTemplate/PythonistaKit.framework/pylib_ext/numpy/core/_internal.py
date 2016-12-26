@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A place for code to be called from core C-code.

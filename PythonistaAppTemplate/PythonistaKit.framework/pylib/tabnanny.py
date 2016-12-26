@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """The Tab Nanny despises ambiguous indentation.  She knows no mercy.
 

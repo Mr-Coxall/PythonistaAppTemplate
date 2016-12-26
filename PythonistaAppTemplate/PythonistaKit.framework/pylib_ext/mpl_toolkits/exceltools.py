@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Some io tools for excel -- requires xlwt

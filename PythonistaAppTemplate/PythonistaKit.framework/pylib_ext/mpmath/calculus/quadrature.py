@@ -1,3 +1,4 @@
+#\input texinfo
 import math
 
 from ..libmp.backend import xrange

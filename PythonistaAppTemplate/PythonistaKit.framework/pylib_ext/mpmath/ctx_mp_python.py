@@ -1,3 +1,4 @@
+#\input texinfo
 #from ctx_base import StandardBaseContext
 
 from .libmp.backend import basestring, exec_

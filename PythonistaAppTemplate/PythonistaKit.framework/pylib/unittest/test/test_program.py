@@ -1,3 +1,4 @@
+#\input texinfo
 from cStringIO import StringIO
 
 import os

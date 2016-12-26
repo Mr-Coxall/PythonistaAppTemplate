@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # Author: Steven J. Bethard <steven.bethard@gmail.com>.
 
 """Command-line parsing library

@@ -1,3 +1,4 @@
+#\input texinfo
 # XXX: Handle setuptools ?
 from __future__ import division, absolute_import, print_function
 

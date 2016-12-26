@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module mainly implements special orthogonal polynomials.

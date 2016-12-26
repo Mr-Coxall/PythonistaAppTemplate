@@ -1,3 +1,4 @@
+#\input texinfo
 
 """\
 A library of useful helper classes to the SAX classes, for the

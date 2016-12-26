@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module implements Pauli algebra by subclassing Symbol. Only algebraic

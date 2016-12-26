@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Rational number type based on Python integers. """
 

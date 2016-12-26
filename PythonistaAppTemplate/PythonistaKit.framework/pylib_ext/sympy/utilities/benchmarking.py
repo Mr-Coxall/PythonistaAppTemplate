@@ -1,3 +1,4 @@
+#\input texinfo
 
 """benchmarking through py.test"""
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A module for converting numbers or color arguments to *RGB* or *RGBA*

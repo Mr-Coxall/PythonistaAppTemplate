@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 :mod:`~matplotlib.gridspec` is a module which specifies the location

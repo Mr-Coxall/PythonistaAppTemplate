@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Abstract tensor product."""
 

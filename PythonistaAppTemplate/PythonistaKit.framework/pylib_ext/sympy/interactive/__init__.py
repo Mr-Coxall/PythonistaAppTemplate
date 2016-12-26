@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Helper module for setting up interactive SymPy sessions. """
 

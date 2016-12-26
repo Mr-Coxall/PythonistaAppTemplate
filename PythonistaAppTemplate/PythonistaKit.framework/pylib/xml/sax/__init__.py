@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Simple API for XML (SAX) implementation for Python.
 

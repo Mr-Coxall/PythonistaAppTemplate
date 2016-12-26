@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Module for creating Sankey diagrams using matplotlib

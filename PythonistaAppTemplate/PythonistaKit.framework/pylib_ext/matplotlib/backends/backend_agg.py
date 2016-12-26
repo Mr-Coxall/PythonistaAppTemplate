@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 An agg http://antigrain.com/ backend

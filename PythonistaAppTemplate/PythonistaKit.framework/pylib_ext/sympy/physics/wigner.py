@@ -1,3 +1,4 @@
+#\input texinfo
 r"""
 Wigner, Clebsch-Gordan, Racah, and Gaunt coefficients
 

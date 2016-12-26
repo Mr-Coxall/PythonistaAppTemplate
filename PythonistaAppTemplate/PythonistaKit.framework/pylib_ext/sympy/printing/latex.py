@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A Printer which converts an expression into its LaTeX equivalent.

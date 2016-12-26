@@ -1,3 +1,4 @@
+#\input texinfo
 from . import complexes
 from . import exponential
 from . import hyperbolic

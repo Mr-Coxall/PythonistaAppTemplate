@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """Backport of importlib.import_module from 3.x."""
 # While not critical (and in no way guaranteed!), it would be nice to keep this

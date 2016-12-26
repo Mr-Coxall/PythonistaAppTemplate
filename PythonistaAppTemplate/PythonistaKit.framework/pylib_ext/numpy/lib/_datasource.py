@@ -1,3 +1,4 @@
+#\input texinfo
 
 """A file interface for handling local and remote data files.
 The goal of datasource is to abstract some of the file system operations when

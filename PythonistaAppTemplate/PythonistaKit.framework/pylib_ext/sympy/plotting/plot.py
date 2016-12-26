@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Plotting module for Sympy.
 

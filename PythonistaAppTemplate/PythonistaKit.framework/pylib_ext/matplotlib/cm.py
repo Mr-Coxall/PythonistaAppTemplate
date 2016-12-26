@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module provides a large set of colormaps, functions for

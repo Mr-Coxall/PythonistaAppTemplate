@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # This version of the getpass module was written specifically for the Pythonista
 # UI. It only provides the getpass function (and not getuser, as iOS is not a 
 # multi-user environment). Additionally, getpass has no stream parameter in this

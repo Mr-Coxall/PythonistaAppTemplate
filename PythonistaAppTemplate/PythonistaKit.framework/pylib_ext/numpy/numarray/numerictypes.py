@@ -1,3 +1,4 @@
+#\input texinfo
 
 """numerictypes: Define the numeric type objects
 

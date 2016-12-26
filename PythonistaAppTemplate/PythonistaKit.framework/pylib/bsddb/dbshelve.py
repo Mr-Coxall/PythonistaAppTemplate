@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 #------------------------------------------------------------------------
 #           Copyright (c) 1997-2001 by Total Control Software
 #                         All Rights Reserved

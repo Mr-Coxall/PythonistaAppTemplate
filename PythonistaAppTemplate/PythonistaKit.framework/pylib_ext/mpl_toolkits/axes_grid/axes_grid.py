@@ -1,3 +1,4 @@
+#\input texinfo
 
 
 import mpl_toolkits.axes_grid1.axes_grid as axes_grid_orig

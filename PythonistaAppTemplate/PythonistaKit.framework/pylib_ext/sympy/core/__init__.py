@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Core module. Provides the basic operations needed in sympy.
 """

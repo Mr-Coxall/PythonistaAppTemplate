@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module adds the default axis argument to code which did not specify it

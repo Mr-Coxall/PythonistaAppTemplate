@@ -1,3 +1,4 @@
+#\input texinfo
 # -*- coding: iso-8859-1 -*-
 # pysqlite2/dbapi2.py: the DB-API 2.0 interface
 #

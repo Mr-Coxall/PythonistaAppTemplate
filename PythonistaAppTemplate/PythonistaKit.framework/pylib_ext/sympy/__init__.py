@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 SymPy is a Python library for symbolic mathematics. It aims to become a

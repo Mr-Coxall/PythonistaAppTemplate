@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 import _motion
 
 shared_manager = _motion.MotionManager()

@@ -1,3 +1,4 @@
+#\input texinfo
 # -*- coding: utf-8 -*-
 
 """This is rule-based deduction system for SymPy

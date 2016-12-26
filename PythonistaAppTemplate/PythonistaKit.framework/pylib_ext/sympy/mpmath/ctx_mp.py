@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module defines the mpf, mpc classes, and standard functions for

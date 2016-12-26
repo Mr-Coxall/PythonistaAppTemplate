@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Symbolic primitives + unicode/ASCII abstraction for pretty.py"""
 

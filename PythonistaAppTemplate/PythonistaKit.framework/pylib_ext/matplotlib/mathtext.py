@@ -1,3 +1,4 @@
+#\input texinfo
 r"""
 :mod:`~matplotlib.mathtext` is a module for parsing a subset of the
 TeX math syntax and drawing them to a matplotlib backend.

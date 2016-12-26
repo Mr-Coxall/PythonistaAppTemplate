@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Classes for the ticks and x and y axis

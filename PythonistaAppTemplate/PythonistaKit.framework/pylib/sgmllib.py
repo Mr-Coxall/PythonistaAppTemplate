@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """A parser for SGML, using the derived class as a static DTD."""
 

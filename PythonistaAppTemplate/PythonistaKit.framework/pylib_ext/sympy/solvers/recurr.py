@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module is intended for solving recurrences or, in other words,

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Implicit plotting module for SymPy
 

@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python 'uu_codec' Codec - UU content transfer encoding
 

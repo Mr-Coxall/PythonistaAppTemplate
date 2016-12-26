@@ -1,3 +1,4 @@
+#\input texinfo
 
 """For reading in DIMACS file format
 

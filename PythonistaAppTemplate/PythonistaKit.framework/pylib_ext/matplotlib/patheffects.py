@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Defines classes for path effects. The path effects are supported in

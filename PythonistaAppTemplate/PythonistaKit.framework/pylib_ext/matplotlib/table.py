@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Place a table below the x-axis at location loc.

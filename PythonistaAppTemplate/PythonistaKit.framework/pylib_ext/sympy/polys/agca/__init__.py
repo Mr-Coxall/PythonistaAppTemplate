@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Module for algebraic geomery and commutative algebra."""
 

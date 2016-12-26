@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Functions that should behave the same as Numeric and need changing
 

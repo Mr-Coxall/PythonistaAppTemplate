@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Tools for applying functions to specified parts of expressions. """
 

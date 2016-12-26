@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Functions to operate on polynomials.

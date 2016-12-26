@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Easy-to-use test-generating code:

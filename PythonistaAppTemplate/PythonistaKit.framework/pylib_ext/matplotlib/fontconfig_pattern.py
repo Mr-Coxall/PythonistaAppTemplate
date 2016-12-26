@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A module for parsing and generating fontconfig patterns.

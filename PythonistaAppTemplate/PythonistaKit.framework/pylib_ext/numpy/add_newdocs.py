@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This is only meant to add docs to objects defined in C-extension modules.

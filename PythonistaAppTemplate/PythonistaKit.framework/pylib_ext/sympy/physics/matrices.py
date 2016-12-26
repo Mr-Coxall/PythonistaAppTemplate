@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Known matrices related to physics"""
 

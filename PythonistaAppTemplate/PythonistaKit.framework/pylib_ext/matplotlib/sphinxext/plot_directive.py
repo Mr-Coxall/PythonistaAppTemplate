@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A directive for including a matplotlib plot in a Sphinx document.

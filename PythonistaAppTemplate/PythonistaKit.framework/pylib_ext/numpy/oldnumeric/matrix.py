@@ -1,3 +1,4 @@
+#\input texinfo
 
 """This module is for compatibility only.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ This module contains a "session saver" which saves the state of a
 NumPy session to a file.  At a later time, a different Python

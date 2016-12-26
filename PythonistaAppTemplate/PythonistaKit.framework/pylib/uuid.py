@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # [omz] -- Patched to not use ctypes in Pythonista (crashes in some cases)
 
 r"""UUID objects (universally unique identifiers) according to RFC 4122.

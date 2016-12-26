@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Square-free decomposition algorithms and related tools. """
 

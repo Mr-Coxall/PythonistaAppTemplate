@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Prettyprinter by Jurjen Bos.
 (I hate spammers: mail me at pietjepuk314 at the reverse of ku.oc.oohay).

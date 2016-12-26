@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module defines default legend handlers.

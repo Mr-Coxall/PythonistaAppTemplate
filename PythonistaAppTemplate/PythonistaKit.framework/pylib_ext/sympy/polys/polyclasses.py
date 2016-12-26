@@ -1,3 +1,4 @@
+#\input texinfo
 
 """OO layer for several polynomial representations. """
 

@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Classes to represent arbitrary sets (including sets of sets).
 

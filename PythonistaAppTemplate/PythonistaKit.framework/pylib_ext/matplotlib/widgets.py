@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 GUI Neutral widgets

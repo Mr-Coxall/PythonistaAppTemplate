@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Extended docstrings for functions.py

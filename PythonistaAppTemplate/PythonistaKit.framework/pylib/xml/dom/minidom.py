@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Simple implementation of the Level 1 DOM.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A module providing some utility functions regarding bezier path manipulation.

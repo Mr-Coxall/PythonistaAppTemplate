@@ -1,3 +1,4 @@
+#\input texinfo
 
 # THIS FILE IS GENERATED FROM NUMPY SETUP.PY
 short_version = '1.8.0'

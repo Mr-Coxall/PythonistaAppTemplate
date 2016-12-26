@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Definitions of common exceptions for :mod:`sympy.core` module. """
 

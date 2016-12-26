@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Computations with ideals of polynomial rings."""
 

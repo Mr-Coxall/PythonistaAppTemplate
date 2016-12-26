@@ -1,3 +1,4 @@
+#\input texinfo
 
 """A module that handles matrices.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 # 3dproj.py
 #
 """

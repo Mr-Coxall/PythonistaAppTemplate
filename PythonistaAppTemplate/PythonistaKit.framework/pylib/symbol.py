@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Non-terminal symbols of Python grammar (from "graminit.h")."""
 

@@ -1,3 +1,4 @@
+#\input texinfo
 from operator import gt, lt
 
 from .libmp.backend import xrange

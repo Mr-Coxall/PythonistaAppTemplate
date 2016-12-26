@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Implementation of matrix FGLM Groebner basis conversion algorithm. """
 

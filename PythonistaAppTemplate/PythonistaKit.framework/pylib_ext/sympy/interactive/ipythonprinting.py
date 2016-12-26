@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A print function that pretty prints SymPy objects.

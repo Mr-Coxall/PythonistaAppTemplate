@@ -1,3 +1,4 @@
+#\input texinfo
 
 """py.test hacks to support XFAIL/XPASS"""
 

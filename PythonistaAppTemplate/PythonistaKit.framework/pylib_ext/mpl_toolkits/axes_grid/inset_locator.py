@@ -1,3 +1,4 @@
+#\input texinfo
 from mpl_toolkits.axes_grid1.inset_locator import InsetPosition, \
      AnchoredSizeLocator, \
      AnchoredZoomLocator, BboxPatch, BboxConnector, BboxConnectorPatch, \

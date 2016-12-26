@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Algorithms for solving Parametric Risch Differential Equations.

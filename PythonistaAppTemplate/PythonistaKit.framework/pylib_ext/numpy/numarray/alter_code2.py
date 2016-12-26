@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module converts code written for numpy.numarray to work

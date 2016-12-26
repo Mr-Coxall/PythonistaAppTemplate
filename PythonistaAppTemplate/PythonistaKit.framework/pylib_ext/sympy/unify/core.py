@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Generic Unification algorithm for expression trees with lists of children
 

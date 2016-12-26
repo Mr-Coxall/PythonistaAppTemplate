@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python Character Mapping Codec generated from 'PTCP154.txt' with gencodec.py.
 

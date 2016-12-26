@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 #-------------------------------------------------------------------------
 #  This file contains real Python object wrappers for DB and DBEnv
 #  C "objects" that can be usefully subclassed.  The previous SWIG

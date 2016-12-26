@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import print_function
 from matplotlib.tri import Triangulation
 import matplotlib._tri as _tri

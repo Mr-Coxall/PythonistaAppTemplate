@@ -1,3 +1,4 @@
+#\input texinfo
 
 """This module implements additional tests ala autoconf which can be useful.
 

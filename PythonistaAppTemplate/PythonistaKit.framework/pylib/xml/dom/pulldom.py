@@ -1,3 +1,4 @@
+#\input texinfo
 import xml.sax
 import xml.sax.handler
 import types

@@ -1,3 +1,4 @@
+#\input texinfo
 from sympy.core import symbols
 from sympy.utilities.pytest import raises
 

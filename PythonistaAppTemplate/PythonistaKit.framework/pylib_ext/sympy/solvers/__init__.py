@@ -1,3 +1,4 @@
+#\input texinfo
 
 """A module for solving all kinds of equations.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This is an object-oriented plotting library.

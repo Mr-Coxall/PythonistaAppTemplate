@@ -1,3 +1,4 @@
+#\input texinfo
 from matplotlib.offsetbox import AnchoredOffsetbox
 #from matplotlib.transforms import IdentityTransform
 

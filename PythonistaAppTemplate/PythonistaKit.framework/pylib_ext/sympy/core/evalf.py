@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Adaptive numerical evaluation of SymPy expressions, using mpmath

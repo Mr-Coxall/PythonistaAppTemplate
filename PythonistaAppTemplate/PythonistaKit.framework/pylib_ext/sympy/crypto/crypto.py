@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Classical ciphers and LFSRs

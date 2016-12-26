@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """functools.py - Tools for working with functions and callable objects
 """

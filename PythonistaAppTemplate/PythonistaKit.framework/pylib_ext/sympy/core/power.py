@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import print_function, division
 
 from math import log as _log

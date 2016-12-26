@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Matplotlib based plotting of quantum circuits.
 

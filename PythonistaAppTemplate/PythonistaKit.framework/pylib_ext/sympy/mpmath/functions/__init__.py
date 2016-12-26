@@ -1,3 +1,4 @@
+#\input texinfo
 from . import functions
 # Hack to update methods
 from . import factorials

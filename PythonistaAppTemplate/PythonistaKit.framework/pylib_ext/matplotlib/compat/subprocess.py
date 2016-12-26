@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A replacement wrapper around the subprocess module, with a number of

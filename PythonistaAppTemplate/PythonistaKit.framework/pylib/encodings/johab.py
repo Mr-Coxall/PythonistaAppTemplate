@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # johab.py: Python Unicode Codec for JOHAB
 #

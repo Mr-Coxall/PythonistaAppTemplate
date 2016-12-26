@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Implements the PSLQ algorithm for integer relation detection,

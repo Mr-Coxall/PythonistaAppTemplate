@@ -1,3 +1,4 @@
+#\input texinfo
 
 """An implementation of gates that act on qubits.
 

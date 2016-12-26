@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Loading unittests."""
 

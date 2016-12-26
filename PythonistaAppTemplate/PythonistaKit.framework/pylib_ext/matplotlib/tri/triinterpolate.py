@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Interpolation inside triangular grids.

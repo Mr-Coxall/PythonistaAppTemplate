@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Support for plotting vector fields.

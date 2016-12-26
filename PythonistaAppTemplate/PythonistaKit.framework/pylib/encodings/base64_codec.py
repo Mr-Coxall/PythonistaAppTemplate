@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python 'base64_codec' Codec - base64 content transfer encoding
 

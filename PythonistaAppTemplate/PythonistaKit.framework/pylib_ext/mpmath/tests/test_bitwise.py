@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Test bit-level integer and mpf operations

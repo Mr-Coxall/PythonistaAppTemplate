@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Python version compatibility support for minidom."""
 

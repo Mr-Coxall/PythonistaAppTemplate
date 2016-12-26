@@ -1,3 +1,4 @@
+#\input texinfo
 r"""
 Elliptic functions historically comprise the elliptic integrals
 and their inverses, and originate from the problem of computing the

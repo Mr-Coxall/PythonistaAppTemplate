@@ -1,3 +1,4 @@
+#\input texinfo
 # TODO:
 # * Loop Delay is broken on GTKAgg. This is because source_remove() is not
 #   working as we want. PyGTK bug?

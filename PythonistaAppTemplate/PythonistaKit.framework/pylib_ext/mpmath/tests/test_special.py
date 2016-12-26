@@ -1,3 +1,4 @@
+#\input texinfo
 from mpmath import *
 
 def test_special():

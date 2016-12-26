@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Inference in propositional logic"""
 from __future__ import print_function, division

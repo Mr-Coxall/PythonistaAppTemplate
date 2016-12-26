@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Delaunay triangulation and interpolation tools.
 

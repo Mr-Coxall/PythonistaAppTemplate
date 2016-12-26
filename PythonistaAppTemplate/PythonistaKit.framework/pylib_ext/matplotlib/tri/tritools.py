@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Tools for triangular grids.

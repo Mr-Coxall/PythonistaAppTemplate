@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Tools for managing evaluation contexts. """
 

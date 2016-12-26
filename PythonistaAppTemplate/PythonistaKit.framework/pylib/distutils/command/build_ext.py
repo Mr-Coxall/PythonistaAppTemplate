@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """distutils.command.build_ext
 

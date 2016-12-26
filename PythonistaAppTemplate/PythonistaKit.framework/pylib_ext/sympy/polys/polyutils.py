@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Useful utilities for higher level polynomial classes. """
 

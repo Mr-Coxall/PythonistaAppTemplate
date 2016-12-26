@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ SymPy interface to Unification engine
 

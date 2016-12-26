@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Python interface for the 'lsprof' profiler.
    Compatible with the 'profile' module.

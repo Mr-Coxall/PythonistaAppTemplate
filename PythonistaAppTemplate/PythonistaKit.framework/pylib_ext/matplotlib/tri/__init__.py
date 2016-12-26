@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Unstructured triangular grid functions.

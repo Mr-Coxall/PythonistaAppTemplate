@@ -1,3 +1,4 @@
+#\input texinfo
 # TODO: don't use round
 
 from __future__ import division

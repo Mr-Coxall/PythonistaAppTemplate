@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 ## vim:ts=4:et:nowrap
 """A user-defined wrapper around string objects
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Shor's algorithm and helper functions.
 

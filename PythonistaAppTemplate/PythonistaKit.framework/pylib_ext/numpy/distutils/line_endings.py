@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Functions for converting from DOS to UNIX line endings
 

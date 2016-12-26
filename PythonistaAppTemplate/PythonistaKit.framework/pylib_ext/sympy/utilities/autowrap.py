@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Module for compiling codegen output, and wrap the binary for use in
 python.

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Predefined R^n manifolds together with common coord. systems.
 

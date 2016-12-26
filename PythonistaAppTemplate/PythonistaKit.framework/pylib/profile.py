@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 #
 # Class for profiling python code. rev 1.0  6/2/94
 #

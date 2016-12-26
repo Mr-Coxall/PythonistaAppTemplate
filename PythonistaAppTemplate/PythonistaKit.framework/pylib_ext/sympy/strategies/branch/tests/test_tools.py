@@ -1,3 +1,4 @@
+#\input texinfo
 from sympy.strategies.branch.tools import canon
 from sympy import Basic
 

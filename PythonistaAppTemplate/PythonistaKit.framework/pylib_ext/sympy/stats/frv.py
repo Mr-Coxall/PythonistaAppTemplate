@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Finite Discrete Random Variables Module

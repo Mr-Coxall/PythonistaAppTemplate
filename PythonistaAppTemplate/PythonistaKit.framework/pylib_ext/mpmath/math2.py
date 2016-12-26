@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module complements the math and cmath builtin modules by providing

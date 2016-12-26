@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Decorators for labeling and modifying behavior of test objects.

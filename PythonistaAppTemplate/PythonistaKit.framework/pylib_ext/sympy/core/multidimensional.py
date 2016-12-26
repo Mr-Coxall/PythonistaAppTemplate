@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Provides functionality for multidimensional usage of scalar-functions.

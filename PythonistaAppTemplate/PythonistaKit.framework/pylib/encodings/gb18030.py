@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # gb18030.py: Python Unicode Codec for GB18030
 #

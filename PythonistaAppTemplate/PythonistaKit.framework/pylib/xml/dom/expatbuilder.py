@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Facility to use the Expat parser to load a minidom instance
 from a string or file.

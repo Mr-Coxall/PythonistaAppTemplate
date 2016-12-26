@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # gb2312.py: Python Unicode Codec for GB2312
 #

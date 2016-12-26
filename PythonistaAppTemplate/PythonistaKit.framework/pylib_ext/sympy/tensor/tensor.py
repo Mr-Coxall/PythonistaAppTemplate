@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module defines tensors with abstract index notation.

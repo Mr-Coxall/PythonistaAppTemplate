@@ -1,3 +1,4 @@
+#\input texinfo
 from sympy import (symbols, FunctionMatrix, MatrixExpr, Lambda, Matrix)
 
 

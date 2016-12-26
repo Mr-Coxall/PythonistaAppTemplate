@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Options manager for :class:`Poly` and public API functions. """
 

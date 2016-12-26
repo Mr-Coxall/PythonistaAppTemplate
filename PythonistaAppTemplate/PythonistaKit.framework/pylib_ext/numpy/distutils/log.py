@@ -1,3 +1,4 @@
+#\input texinfo
 # Colored log, requires Python 2.3 or up.
 from __future__ import division, absolute_import, print_function
 

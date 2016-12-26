@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A module for dealing with the polylines used throughout matplotlib.

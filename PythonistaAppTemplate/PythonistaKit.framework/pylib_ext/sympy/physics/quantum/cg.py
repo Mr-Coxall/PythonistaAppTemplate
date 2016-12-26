@@ -1,3 +1,4 @@
+#\input texinfo
 #TODO:
 # -Implement Clebsch-Gordan symmetries
 # -Improve simplification method

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Constants (like hbar) related to quantum mechanics."""
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Handlers for predicates related to set membership: integer, rational, etc.

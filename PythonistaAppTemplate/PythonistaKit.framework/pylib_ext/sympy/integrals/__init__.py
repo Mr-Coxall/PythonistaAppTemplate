@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Integration functions that integrates a sympy expression.
 

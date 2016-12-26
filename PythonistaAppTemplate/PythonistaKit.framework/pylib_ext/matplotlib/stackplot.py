@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Stacked area plot for 1D arrays inspired by Douglas Y'barbo's stackoverflow

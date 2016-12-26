@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Define names for all type symbols known in the standard interpreter.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Set operations for 1D numeric arrays based on sorting.

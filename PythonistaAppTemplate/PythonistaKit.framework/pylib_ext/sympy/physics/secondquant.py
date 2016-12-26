@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Second quantization operators and states for bosons.

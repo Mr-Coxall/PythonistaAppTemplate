@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Some test functions for bivariate interpolation.
 

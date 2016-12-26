@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 .. note:: Deprecated in 1.3

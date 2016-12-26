@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Riemann zeta and related function. """
 from __future__ import print_function, division

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Hilbert spaces for quantum mechanics.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import print_function
 import matplotlib.delaunay as delaunay
 import matplotlib._tri as _tri

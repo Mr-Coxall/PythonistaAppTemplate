@@ -1,3 +1,4 @@
+#\input texinfo
 try:
     from itertools import izip
 except ImportError:

@@ -1,3 +1,4 @@
+#\input texinfo
 import difflib
 import pprint
 import pickle

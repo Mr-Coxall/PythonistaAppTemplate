@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Real and complex root isolation and refinement algorithms. """
 

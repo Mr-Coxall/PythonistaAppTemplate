@@ -1,3 +1,4 @@
+#\input texinfo
 
 """An XML Reader is the SAX 2 name for an XML parser. XML Parsers
 should be based on this code. """

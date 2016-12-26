@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # euc_jp.py: Python Unicode Codec for EUC_JP
 #

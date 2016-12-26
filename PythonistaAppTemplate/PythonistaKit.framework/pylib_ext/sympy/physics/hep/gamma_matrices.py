@@ -1,3 +1,4 @@
+#\input texinfo
 from sympy import S
 from sympy.tensor.tensor import TensorIndexType, TensorIndex,\
     TensMul, TensorHead, tensorsymmetry, TensorType,\

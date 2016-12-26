@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Bessel type functions"""
 

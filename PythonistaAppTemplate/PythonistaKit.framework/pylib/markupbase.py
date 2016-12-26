@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Shared support for scanning document type declarations in HTML and XHTML.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Definitions of monomial orderings. """
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Utilities that manipulate strides to achieve desirable effects.

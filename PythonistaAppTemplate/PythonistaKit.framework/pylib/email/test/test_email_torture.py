@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 # Copyright (C) 2002-2004 Python Software Foundation
 #
 # A torture test of the email package.  This should not be run as part of the

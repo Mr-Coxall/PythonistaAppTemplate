@@ -1,3 +1,4 @@
+#\input texinfo
 __version__ = '0.17'
 
 from .usertools import monitor, timing

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A collection of modules for collecting, analyzing and plotting

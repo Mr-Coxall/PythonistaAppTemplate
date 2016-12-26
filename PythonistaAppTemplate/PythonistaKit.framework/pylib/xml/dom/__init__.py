@@ -1,3 +1,4 @@
+#\input texinfo
 
 """W3C Document Object Model implementation for Python.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ The core's core. """
 from __future__ import print_function, division

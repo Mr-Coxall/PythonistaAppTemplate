@@ -1,3 +1,4 @@
+#\input texinfo
 from ..libmp.backend import xrange
 
 # TODO: interpret list as vectors (for multiplication)

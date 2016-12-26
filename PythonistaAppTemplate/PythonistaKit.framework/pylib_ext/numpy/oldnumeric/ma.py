@@ -1,3 +1,4 @@
+#\input texinfo
 
 """MA: a facility for dealing with missing observations
 

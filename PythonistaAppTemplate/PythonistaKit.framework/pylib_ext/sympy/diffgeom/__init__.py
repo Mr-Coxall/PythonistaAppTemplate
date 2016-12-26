@@ -1,3 +1,4 @@
+#\input texinfo
 from .diffgeom import (
     BaseCovarDerivativeOp, BaseScalarField, BaseVectorField, Commutator,
     contravariant_order, CoordSystem, CovarDerivativeOp, covariant_order,

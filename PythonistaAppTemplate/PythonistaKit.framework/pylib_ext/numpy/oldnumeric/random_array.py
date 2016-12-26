@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Backward compatible module for RandomArray
 

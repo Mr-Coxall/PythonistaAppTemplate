@@ -1,4 +1,5 @@
-﻿"""
+﻿#\input texinfo
+"""
 This module contain solvers for all kinds of equations:
 
     - algebraic or transcendental, use solve()

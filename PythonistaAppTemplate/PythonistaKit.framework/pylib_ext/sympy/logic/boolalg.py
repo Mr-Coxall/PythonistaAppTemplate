@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Boolean algebra module for SymPy

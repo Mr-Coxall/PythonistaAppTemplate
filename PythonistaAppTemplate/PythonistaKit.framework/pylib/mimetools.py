@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Various tools used by MIME-reading or MIME-writing programs."""
 

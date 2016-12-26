@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Expand Hypergeometric (and Meijer G) functions into named

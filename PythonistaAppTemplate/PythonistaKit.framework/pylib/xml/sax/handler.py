@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module contains the core classes of version 2.0 of SAX for Python.

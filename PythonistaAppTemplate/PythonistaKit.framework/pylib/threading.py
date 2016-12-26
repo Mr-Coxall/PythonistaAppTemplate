@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Thread module emulating a subset of Java's threading model."""
 

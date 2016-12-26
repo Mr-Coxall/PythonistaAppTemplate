@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Discrete Fourier Transform (:mod:`numpy.fft`)

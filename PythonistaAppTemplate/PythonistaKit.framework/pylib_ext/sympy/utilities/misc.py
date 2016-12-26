@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Miscellaneous stuff that doesn't really fit anywhere else."""
 

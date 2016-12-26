@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Backward compatible with LinearAlgebra from Numeric
 

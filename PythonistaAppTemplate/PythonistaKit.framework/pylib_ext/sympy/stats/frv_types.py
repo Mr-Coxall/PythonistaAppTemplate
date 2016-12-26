@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Finite Discrete Random Variables - Prebuilt variable types

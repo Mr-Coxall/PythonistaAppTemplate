@@ -1,3 +1,4 @@
+#\input texinfo
 # Author: Paul Kippes <kippesp@gmail.com>
 
 import unittest

@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # [omz] NOTE: This is required by site.py, but the values are not correct.
 #             It's a copy of the default OS X _sysconfigdata, but there shouldn't
 #             be much need for this on iOS anyway.

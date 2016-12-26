@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import print_function, division
 
 from sympy import (Dummy, S, symbols, Lambda, pi, Basic, sympify, ask, Q, Min,

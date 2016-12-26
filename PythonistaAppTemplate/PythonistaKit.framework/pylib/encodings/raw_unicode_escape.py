@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python 'raw-unicode-escape' Codec
 

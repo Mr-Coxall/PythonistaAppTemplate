@@ -1,3 +1,4 @@
+#\input texinfo
 from . import calculus
 # XXX: hack to set methods
 from . import approximation

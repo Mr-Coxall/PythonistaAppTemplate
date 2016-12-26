@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Wrapper functions to more user-friendly calling of certain math functions

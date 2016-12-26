@@ -1,3 +1,4 @@
+#\input texinfo
 #-*- coding: ISO-8859-1 -*-
 # pysqlite2/test/hooks.py: tests for various SQLite-specific hooks
 #

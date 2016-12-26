@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 #  Author:      Fred L. Drake, Jr.
 #               fdrake@acm.org
 #

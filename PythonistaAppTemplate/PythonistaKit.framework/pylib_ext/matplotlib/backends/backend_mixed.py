@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import print_function
 from matplotlib._image import frombuffer
 from matplotlib.backends.backend_agg import RendererAgg

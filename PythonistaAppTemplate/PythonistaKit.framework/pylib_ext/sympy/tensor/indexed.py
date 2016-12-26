@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Module that defines indexed objects
 

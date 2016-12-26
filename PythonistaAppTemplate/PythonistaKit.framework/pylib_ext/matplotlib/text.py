@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Classes for including text in a figure.

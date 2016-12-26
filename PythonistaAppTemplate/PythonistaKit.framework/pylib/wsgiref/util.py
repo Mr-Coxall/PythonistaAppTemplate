@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Miscellaneous WSGI-related Utilities"""
 

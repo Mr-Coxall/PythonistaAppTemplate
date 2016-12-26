@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module contains functions to handle markers.  Used by both the

@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """A more or less complete user-defined wrapper around dictionary objects."""
 

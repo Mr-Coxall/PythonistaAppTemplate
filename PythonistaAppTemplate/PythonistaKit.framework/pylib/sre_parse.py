@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 #
 # Secret Labs' Regular Expression Engine
 #

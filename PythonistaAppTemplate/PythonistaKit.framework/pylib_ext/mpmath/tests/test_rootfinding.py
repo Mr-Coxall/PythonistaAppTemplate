@@ -1,3 +1,4 @@
+#\input texinfo
 from mpmath import *
 from mpmath.calculus.optimization import Secant, Muller, Bisection, Illinois, \
     Pegasus, Anderson, Ridder, ANewton, Newton, MNewton, MDNewton

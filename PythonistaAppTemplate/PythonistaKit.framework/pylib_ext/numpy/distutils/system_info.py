@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This file defines a set of system_info classes for getting

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Qubits for quantum computing.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 numpy.ma : a package to handle missing or invalid values.

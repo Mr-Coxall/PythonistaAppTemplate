@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Algorithms for computing symbolic roots of polynomials. """
 

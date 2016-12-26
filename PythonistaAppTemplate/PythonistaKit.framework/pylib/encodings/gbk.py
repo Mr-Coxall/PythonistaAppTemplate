@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # gbk.py: Python Unicode Codec for GBK
 #

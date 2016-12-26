@@ -1,3 +1,4 @@
+#\input texinfo
 
 # Scanner produces tokens of the following types:
 # STREAM-START

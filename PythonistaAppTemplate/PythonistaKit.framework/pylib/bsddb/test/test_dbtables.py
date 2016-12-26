@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 #
 #-----------------------------------------------------------------------
 # A test suite for the table interface built on bsddb.db

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Heuristic polynomial GCD algorithm (HEUGCD). """
 

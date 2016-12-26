@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # -*- coding: utf-8 -*-
 """
     ast

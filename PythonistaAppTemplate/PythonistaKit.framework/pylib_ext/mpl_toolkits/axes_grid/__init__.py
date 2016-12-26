@@ -1,3 +1,4 @@
+#\input texinfo
 import axes_size as Size
 from axes_divider import Divider, SubplotDivider, LocatableAxes, \
      make_axes_locatable

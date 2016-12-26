@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Manage figures for pyplot interface.

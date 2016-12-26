@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Template for the Chebyshev and Polynomial classes.

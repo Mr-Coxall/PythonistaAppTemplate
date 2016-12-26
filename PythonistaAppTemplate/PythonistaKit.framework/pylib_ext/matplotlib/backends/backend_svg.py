@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import division
 
 import os, base64, tempfile, urllib, gzip, io, sys, codecs, re

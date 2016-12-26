@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Manage HTTP Response Headers
 

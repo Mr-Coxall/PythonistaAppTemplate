@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module is to support *bbox_inches* option in savefig command.

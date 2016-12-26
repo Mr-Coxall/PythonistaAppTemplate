@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 # Copyright (C) 2001-2006 Python Software Foundation
 # Author: Anthony Baxter
 # Contact: email-sig@python.org

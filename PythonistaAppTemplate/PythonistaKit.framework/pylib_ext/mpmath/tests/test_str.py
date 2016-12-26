@@ -1,3 +1,4 @@
+#\input texinfo
 from mpmath import nstr, matrix, inf
 
 def test_nstr():

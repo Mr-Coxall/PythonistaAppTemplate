@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Subset of inspect module from upstream python
 

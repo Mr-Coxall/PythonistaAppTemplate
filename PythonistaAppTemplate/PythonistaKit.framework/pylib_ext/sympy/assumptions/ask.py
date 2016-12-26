@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Module for querying SymPy objects about assumptions."""
 from __future__ import print_function, division

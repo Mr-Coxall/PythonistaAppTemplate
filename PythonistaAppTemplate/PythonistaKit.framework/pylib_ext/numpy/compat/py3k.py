@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Python 3 compatibility tools.

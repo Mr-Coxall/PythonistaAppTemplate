@@ -1,3 +1,4 @@
+#\input texinfo
 
 """The commutator: [A,B] = A*B - B*A."""
 

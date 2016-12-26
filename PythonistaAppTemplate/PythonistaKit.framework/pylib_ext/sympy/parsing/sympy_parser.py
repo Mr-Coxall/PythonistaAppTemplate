@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Transform a string with Python-like source code into SymPy expression. """
 

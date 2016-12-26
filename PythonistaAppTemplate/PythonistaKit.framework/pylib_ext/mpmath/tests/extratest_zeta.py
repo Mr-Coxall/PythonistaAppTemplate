@@ -1,3 +1,4 @@
+#\input texinfo
 from mpmath import zetazero
 from timeit import default_timer as clock
 

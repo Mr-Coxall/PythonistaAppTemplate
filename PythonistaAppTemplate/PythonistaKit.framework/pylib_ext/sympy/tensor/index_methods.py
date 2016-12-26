@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Module with functions operating on IndexedBase, Indexed and Idx objects
 

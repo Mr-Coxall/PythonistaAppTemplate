@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Integration method that emulates by-hand techniques.
 

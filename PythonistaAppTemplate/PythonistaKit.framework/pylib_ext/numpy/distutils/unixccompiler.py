@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 unixccompiler - can handle very long argument lists for ar.

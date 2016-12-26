@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This is a fully functional do nothing backend to provide a template to

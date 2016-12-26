@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Convergence acceleration / extrapolation methods for series and

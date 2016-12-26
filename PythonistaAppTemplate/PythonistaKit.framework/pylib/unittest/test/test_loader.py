@@ -1,3 +1,4 @@
+#\input texinfo
 import sys
 import types
 

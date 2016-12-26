@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Classes for the efficient drawing of large collections of objects that

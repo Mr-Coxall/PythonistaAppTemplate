@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Common test support for all numpy test scripts.
 

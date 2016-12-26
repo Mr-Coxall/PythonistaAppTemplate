@@ -1,3 +1,4 @@
+#\input texinfo
 
 __all__ = ['BaseRepresenter', 'SafeRepresenter', 'Representer',
     'RepresenterError']

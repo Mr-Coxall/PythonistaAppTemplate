@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module implements the functionality to take any Python expression as a

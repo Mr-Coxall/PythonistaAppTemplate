@@ -1,3 +1,4 @@
+#\input texinfo
 from bisect import bisect
 from ..libmp.backend import xrange
 

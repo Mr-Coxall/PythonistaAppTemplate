@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import print_function, division
 
 from .core import (exhaust, multiplex, debug, notempty, condition, chain,

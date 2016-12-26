@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Check that the output from irrational functions is accurate for

@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Load / save to libwww-perl (LWP) format files.
 

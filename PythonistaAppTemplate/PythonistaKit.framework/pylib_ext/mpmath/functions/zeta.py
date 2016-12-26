@@ -1,3 +1,4 @@
+#\input texinfo
 from ..libmp.backend import xrange, print_
 from .functions import defun, defun_wrapped, defun_static
 

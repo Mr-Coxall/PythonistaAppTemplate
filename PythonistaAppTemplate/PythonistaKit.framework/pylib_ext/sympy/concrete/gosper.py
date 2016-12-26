@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Gosper's algorithm for hypergeometric summation. """
 from __future__ import print_function, division

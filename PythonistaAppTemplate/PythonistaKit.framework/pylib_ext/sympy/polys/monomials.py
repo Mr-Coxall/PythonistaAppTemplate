@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Tools and arithmetics for monomials of distributed polynomials. """
 

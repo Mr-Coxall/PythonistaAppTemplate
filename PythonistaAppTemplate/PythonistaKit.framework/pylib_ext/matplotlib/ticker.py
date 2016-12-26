@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Tick locating and formatting

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 General SymPy exceptions and warnings.

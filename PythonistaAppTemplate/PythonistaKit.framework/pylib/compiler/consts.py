@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # operation flags
 OP_ASSIGN = 'OP_ASSIGN'
 OP_DELETE = 'OP_DELETE'

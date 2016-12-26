@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Array methods which are called by the both the C-code for the method

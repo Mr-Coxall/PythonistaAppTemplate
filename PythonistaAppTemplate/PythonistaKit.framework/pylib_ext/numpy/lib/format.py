@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Define a simple format for saving numpy arrays to disk with the full

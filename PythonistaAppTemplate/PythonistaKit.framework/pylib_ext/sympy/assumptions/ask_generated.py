@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The contents of this file are the return value of

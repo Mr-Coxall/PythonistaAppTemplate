@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A buffered iterator for big arrays.

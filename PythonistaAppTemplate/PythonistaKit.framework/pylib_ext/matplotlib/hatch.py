@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Contains a classes for generating hatch patterns.

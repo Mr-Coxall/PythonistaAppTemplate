@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Machine limits for Float32 and Float64 and (long double) if available...
 

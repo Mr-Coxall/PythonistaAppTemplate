@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Number theory module (primes, etc)

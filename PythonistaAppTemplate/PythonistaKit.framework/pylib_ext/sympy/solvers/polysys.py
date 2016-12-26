@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Solvers of systems of polynomial equations. """
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Prints type-coercion tables for the built-in NumPy types
 

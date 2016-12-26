@@ -1,3 +1,4 @@
+#\input texinfo
 
 def monitor(f, input='print', output='print'):
     """

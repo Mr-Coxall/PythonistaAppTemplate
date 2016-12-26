@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Torture tests for asymptotics and high precision evaluation of

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Core Linear Algebra Tools

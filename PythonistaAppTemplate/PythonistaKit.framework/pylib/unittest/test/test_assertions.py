@@ -1,3 +1,4 @@
+#\input texinfo
 import datetime
 
 import unittest

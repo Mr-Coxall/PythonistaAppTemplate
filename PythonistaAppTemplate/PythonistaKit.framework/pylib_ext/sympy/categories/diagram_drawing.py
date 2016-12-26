@@ -1,3 +1,4 @@
+#\input texinfo
 r"""
 This module contains the functionality to arrange the nodes of a
 diagram on an abstract grid, and then to produce a graphical

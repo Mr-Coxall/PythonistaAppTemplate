@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Integrate functions by rewriting them as Meijer G-functions.

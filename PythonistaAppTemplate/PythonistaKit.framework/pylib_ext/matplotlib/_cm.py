@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Nothing here but dictionaries for generating LinearSegmentedColormaps,

@@ -1,3 +1,4 @@
+#\input texinfo
 import signal
 import weakref
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Matplotlib provides sophisticated date plotting capabilities, standing on the

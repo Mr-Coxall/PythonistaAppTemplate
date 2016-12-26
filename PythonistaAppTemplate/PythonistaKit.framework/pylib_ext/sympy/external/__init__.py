@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Unified place for determining if external dependencies are installed or not.

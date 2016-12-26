@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 exec_command

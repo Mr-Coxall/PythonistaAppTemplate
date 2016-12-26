@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 setup.py for installing F2PY

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Unification in SymPy
 

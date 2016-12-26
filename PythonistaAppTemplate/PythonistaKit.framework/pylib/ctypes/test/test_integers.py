@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 # superseeded by test_numbers.py
 import unittest
 

@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python 'utf-8' Codec
 

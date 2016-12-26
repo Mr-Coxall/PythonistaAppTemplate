@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module contains the machinery handling assumptions.

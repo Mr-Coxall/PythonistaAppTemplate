@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Computations with modules over polynomial rings.

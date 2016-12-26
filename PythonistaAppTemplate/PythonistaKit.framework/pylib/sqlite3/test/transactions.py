@@ -1,3 +1,4 @@
+#\input texinfo
 #-*- coding: ISO-8859-1 -*-
 # pysqlite2/test/transactions.py: tests transactions
 #

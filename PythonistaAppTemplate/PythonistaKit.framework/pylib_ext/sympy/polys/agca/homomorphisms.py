@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Computations with homomorphisms of modules and rings.

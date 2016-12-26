@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Utililty objects for the polynomial modules.

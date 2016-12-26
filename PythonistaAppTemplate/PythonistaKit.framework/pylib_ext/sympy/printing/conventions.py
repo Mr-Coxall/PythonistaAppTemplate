@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A few practical conventions common to all printers.

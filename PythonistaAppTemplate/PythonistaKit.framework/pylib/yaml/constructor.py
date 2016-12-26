@@ -1,3 +1,4 @@
+#\input texinfo
 
 __all__ = ['BaseConstructor', 'SafeConstructor', 'Constructor',
     'ConstructorError']

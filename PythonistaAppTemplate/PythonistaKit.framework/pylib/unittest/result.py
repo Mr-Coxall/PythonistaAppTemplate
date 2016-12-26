@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Test result object"""
 

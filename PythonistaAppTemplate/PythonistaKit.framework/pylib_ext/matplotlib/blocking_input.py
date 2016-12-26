@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This provides several classes used for blocking interaction with figure

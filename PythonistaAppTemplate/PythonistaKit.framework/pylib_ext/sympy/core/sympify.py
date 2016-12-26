@@ -1,3 +1,4 @@
+#\input texinfo
 
 """sympify -- convert objects SymPy internal format"""
 

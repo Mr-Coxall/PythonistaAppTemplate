@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """Codec for quoted-printable encoding.
 

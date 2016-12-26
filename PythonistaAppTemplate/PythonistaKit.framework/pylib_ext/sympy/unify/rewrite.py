@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Functions to support rewriting of SymPy expressions """
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A sub-package for efficiently dealing with polynomials.

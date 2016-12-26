@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 The Risch Algorithm for transcendental function integration.

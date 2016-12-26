@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Basic functions for manipulating 2d arrays
 

@@ -1,3 +1,4 @@
+#\input texinfo
 #
 # ElementTree
 # $Id: ElementInclude.py 3375 2008-02-13 08:05:08Z fredrik $

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """reST directive for syntax-highlighting ipython interactive sessions.
 

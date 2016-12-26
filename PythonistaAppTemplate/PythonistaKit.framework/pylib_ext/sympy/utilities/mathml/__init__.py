@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Module with some functions for MathML, like transforming MathML
 content in MathML presentation.

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Compatibility module.

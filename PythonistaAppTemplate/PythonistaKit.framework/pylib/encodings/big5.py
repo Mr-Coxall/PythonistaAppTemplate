@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # big5.py: Python Unicode Codec for BIG5
 #

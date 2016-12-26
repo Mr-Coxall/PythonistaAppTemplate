@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Fortran to Python Interface Generator.
 

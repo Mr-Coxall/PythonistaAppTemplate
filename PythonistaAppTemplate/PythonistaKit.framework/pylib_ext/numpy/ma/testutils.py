@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Miscellaneous functions for testing masked arrays and subclasses
 

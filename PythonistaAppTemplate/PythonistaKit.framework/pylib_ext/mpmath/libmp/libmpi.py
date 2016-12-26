@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Computational functions for interval arithmetic.

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Curves in 2-dimensional Euclidean space.
 

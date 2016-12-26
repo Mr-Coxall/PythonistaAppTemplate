@@ -1,3 +1,4 @@
+#\input texinfo
 # -*- coding: utf-8 -*-
 from .cartan_type import CartanType
 from sympy.core import Basic

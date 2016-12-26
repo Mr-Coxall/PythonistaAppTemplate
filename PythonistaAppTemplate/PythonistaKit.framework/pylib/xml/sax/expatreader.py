@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 SAX driver for the pyexpat C module.  This driver works with

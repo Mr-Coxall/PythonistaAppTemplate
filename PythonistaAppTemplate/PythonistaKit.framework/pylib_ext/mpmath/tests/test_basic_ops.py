@@ -1,3 +1,4 @@
+#\input texinfo
 import mpmath
 from mpmath import *
 from mpmath.libmp import *

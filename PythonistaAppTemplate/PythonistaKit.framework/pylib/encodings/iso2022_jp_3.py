@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # iso2022_jp_3.py: Python Unicode Codec for ISO2022_JP_3
 #

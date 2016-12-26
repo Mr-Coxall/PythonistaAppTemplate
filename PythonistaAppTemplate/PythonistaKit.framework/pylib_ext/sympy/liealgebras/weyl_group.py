@@ -1,3 +1,4 @@
+#\input texinfo
 # -*- coding: utf-8 -*-
 
 from sympy.core import Basic, Rational

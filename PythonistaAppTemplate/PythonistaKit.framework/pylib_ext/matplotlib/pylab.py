@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This is a procedural interface to the matplotlib object-oriented

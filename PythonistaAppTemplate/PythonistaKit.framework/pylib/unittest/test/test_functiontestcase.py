@@ -1,3 +1,4 @@
+#\input texinfo
 import unittest
 
 from .support import LoggingResult

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Objects for dealing with Chebyshev series.

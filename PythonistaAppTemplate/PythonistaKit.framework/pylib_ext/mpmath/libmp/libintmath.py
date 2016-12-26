@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Utility functions for integer math.

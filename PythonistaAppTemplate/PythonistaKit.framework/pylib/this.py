@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 s = """Gur Mra bs Clguba, ol Gvz Crgref
 
 Ornhgvshy vf orggre guna htyl.

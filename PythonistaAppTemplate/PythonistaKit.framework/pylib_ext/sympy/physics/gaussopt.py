@@ -1,3 +1,4 @@
+#\input texinfo
 # -*- encoding: utf-8 -*-
 """
 Gaussian optics.

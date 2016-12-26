@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Utilities to deal with sympy.Matrix, numpy and scipy.sparse."""
 

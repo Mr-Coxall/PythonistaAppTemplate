@@ -1,3 +1,4 @@
+#\input texinfo
 
 """wsgiref -- a WSGI (PEP 333) Reference Library
 

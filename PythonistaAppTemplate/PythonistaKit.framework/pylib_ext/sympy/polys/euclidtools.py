@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Euclidean algorithms, GCDs, LCMs and polynomial remainder sequences. """
 

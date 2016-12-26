@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Re-create the RNG interface from Numeric.
 

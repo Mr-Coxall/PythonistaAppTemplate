@@ -1,3 +1,4 @@
+#\input texinfo
 
 """This module implements tools for integrating rational functions. """
 

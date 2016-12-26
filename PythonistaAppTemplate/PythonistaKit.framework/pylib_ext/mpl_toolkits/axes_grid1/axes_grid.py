@@ -1,3 +1,4 @@
+#\input texinfo
 import matplotlib.cbook as cbook
 
 import matplotlib.pyplot as plt

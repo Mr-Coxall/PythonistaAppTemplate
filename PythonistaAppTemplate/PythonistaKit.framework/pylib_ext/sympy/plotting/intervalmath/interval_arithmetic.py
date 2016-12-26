@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Interval Arithmetic for plotting.

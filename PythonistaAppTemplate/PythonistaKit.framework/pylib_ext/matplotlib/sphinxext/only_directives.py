@@ -1,3 +1,4 @@
+#\input texinfo
 #
 # A pair of directives for inserting content that will only appear in
 # either html or latex.

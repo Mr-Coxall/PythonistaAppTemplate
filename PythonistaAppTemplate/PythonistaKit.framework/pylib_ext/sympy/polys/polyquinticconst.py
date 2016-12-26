@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Solving solvable quintics - An implementation of DS Dummit's paper

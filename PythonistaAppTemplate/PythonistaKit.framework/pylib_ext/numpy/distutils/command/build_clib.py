@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Modified version of build_clib that handles fortran source files.
 """

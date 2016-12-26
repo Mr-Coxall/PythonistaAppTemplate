@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Collection of utilities to manipulate structured arrays.

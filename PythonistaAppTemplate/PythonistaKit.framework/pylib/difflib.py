@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """
 Module difflib -- helpers for computing deltas between objects.

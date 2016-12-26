@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ rewrite of lambdify - This stuff is not stable at all.
 

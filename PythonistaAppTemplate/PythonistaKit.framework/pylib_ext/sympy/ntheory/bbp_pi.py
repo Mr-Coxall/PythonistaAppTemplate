@@ -1,3 +1,4 @@
+#\input texinfo
 '''
 This implementation is a heavily modified fixed point implementation of
 BBP_formula for calculating the nth position of pi. The original hosted

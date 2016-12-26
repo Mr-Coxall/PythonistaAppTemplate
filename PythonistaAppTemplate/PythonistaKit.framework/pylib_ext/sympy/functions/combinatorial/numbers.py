@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module implements some special functions that commonly appear in

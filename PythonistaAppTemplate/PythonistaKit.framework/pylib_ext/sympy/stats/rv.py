@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Main Random Variables Module

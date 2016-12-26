@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """Module/script to byte-compile all .py files to .pyc (or .pyo) files.
 

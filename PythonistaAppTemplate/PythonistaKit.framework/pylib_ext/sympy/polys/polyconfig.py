@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Configuration utilities for polynomial manipulation algorithms. """
 

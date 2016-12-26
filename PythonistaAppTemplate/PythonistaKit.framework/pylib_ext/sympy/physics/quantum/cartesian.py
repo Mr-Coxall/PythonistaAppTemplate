@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Operators and states for 1D cartesian position and momentum.
 

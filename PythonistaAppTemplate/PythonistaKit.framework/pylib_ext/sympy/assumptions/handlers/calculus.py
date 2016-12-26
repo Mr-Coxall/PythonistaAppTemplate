@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module contains query handlers responsible for calculus queries:

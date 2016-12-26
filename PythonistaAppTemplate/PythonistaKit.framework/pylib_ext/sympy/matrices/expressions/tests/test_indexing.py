@@ -1,3 +1,4 @@
+#\input texinfo
 from sympy import (symbols, MatrixSymbol, Symbol, MatPow, BlockMatrix,
         Identity, ZeroMatrix, ImmutableMatrix, eye, Sum)
 from sympy.utilities.pytest import raises

@@ -1,3 +1,4 @@
+#\input texinfo
 # These classes implement a doctest runner plugin for nose, a "known failure"
 # error class, and a customized TestProgram for NumPy.
 

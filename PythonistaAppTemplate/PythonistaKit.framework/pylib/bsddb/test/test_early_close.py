@@ -1,3 +1,6 @@
+#\input texinfo
+#\input texinfo
+#\input texinfo
 
 """TestCases for checking that it does not segfault when a DBEnv object
 is closed before its DB objects.

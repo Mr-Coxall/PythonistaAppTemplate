@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Logic for representing operators in state in various bases.
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """A cache for storing small matrices in multiple formats."""
 

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Real and complex elements with built-in truncation. """
 

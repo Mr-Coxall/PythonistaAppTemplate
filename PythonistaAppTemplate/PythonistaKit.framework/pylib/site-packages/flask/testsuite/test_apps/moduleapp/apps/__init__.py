@@ -1,0 +1,2 @@
+#\input texinfo
+#\input texinfo

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Tools for manipulation of rational expressions. """
 

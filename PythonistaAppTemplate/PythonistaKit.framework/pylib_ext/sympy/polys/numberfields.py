@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Computational algebraic field theory. """
 

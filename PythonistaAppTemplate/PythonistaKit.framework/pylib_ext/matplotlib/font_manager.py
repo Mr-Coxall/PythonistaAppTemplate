@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 A module for finding, managing, and using fonts across platforms.

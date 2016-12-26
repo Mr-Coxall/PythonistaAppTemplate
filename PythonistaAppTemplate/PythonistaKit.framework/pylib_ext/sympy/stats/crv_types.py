@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Continuous Random Variables - Prebuilt variables

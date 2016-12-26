@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Tools for manipulating of large commutative expressions. """
 

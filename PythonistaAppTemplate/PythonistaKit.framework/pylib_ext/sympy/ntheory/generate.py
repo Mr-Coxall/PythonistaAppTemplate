@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Generating and counting primes.

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """The definition of the base geometrical entity with attributes common to
 all derived geometrical entities.

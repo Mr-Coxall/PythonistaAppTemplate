@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Sub-package containing the matrix class and related functions.
 

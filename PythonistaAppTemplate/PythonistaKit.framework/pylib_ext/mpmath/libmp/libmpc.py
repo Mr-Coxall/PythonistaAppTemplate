@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Low-level functions for complex arithmetic.

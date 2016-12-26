@@ -1,3 +1,4 @@
+#\input texinfo
 
 """ Build swig, f2py, pyrex sources.
 """

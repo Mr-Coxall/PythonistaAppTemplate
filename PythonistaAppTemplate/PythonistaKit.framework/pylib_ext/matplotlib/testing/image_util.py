@@ -1,3 +1,4 @@
+#\input texinfo
 # This module contains some functionality from the Python Imaging
 # Library, that has been ported to use Numpy arrays rather than PIL
 # Image objects.

@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 Streamline plotting for 2D vector fields.

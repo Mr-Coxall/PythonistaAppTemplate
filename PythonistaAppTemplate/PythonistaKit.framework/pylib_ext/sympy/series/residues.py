@@ -1,3 +1,4 @@
+#\input texinfo
 
 """
 This module implements the Residue function and related tools for working

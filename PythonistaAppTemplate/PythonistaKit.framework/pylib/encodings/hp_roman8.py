@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 
 """ Python Character Mapping Codec generated from 'hp_roman8.txt' with gencodec.py.
 

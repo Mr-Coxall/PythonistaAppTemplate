@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Efficient functions for generating orthogonal polynomials. """
 

@@ -1,3 +1,5 @@
+#\input texinfo
+#\input texinfo
 #
 # euc_jis_2004.py: Python Unicode Codec for EUC_JIS_2004
 #

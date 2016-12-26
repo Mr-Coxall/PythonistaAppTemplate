@@ -1,3 +1,4 @@
+#\input texinfo
 
 """Compatibility interface between dense and sparse polys. """
 

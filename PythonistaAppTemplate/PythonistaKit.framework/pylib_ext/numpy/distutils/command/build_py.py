@@ -1,3 +1,4 @@
+#\input texinfo
 from __future__ import division, absolute_import, print_function
 
 from distutils.command.build_py import build_py as old_build_py
